@@ -30,3 +30,4 @@ print(len(df.axes[1]))
 ## OUTPUT:
 ![gitlogo](1.jpg)
 ## RESULT:
+Thus a python program is written to read the contents of a CSV file.
